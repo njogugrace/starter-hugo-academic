@@ -1,11 +1,10 @@
 ---
 title: Women in Data Science Worldwide (WiDS) @ DataDose
-abstract: |-
-  Unlock your Career in Data Science
-  Learn Python for Data Analysis
-  Demystifying Machine Learning
-  Mastery of Statistical Analysis
-location: Google Meet
+abstract: I'm excited to invite you to an upcoming data science training session
+  that promises to be insightful and empowering. As a WIDs Ambassador, I'm
+  passionate about fostering diversity and excellence in data science, and this
+  event is a fantastic opportunity to learn and connect.
+location: Virtual via Google Meet
 date: 2024-01-20T09:00:00.000Z
 date_end: 2024-01-20T11:00:29.022Z
 all_day: false
@@ -22,3 +21,17 @@ image:
   preview_only: false
   caption: Women in Data Science Worldwide (WiDS) -  DataDose
 ---
+What to Expect:
+
+* In-depth training on key statistical concepts for data science.
+* Hands-on exercises to reinforce your learning.
+* Networking opportunities with fellow data enthusiasts.
+* Insights on the impact of diversity in shaping the future of data science.
+
+Who Should Attend:
+
+* Data science enthusiasts at all levels.
+* Professionals looking to enhance their statistical skills.
+* Anyone interested in the intersection of diversity and data science.
+
+Let's come together to build a more inclusive and knowledgeable data science community. Feel free to share this invitation with your network. Can't wait to see you there.
