@@ -1,5 +1,5 @@
 ---
-title: Women in Data Science Worldwide (WiDS)
+title: Women in Data Science Worldwide (WiDS) @ DataDose
 abstract: I'm excited to invite you to an upcoming data science training session
   that promises to be insightful and empowering. As a WiDS Ambassador, I'm
   passionate about fostering diversity and excellence in data science, and this
