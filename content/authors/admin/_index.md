@@ -7,7 +7,7 @@ interests:
   - Data Science
   - Data Analysis
   - Machine Learning
-  - Artificial Intelligence (AI)
+  - Artificial Intelligence
   - Business Analysis
   - Data Story Telling
   - Mentorship
