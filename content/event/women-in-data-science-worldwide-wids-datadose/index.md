@@ -1,7 +1,7 @@
 ---
 title: Women in Data Science Worldwide (WiDS) @ DataDose
 abstract: I'm excited to invite you to an upcoming data science training session
-  that promises to be insightful and empowering. As a WIDs Ambassador, I'm
+  that promises to be insightful and empowering. As a WiDS Ambassador, I'm
   passionate about fostering diversity and excellence in data science, and this
   event is a fantastic opportunity to learn and connect.
 location: Virtual via Google Meet
