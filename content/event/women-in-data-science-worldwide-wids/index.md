@@ -5,12 +5,12 @@ abstract: I'm excited to invite you to an upcoming data science training session
   passionate about fostering diversity and excellence in data science, and this
   event is a fantastic opportunity to learn and connect.
 location: Virtual via Google Meet
-date: 2024-01-20T10:39:41.604Z
+date: 2024-01-20T12:00:41.604Z
 date_end: 2024-01-20T14:00:29.022Z
 all_day: false
 event: Register Now
 event_url: https://forms.gle/ztD3RUXYyUCYg3xQ6
-publishDate: 2024-01-20T10:39:41.616Z
+publishDate: 2024-01-15T10:41:09.976Z
 draft: false
 featured: false
 tags:
