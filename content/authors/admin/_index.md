@@ -1,7 +1,6 @@
 ---
 title: Njogu Grace
-role: Data Scientist | Data Analyst | ML Specialist | Business Analyst | Data
-  Story Teller | Mentor
+role: Data Scientist | Lead Trainer Data Science & Analytics | Data Science & AI Mentor | Zindi Ambassador | WIDs Ambassador
 bio: I'm curious, argumentative, judgemental and passionate in exploring Data.
 interests:
   - Data Science
