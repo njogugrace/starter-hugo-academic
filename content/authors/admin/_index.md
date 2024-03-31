@@ -1,7 +1,7 @@
 ---
 title: Njogu Grace
-role: Data Scientist | Lead Trainer Data Science & Analytics | Kaggle X Mentor |
-  Zindi Ambassador | WiDS Ambassador
+role: Data Scientist I 2024 AWID Award I Kaggle X Mentor I Zindi Ambassador I
+  WIDs Ambassador | SDGs Advocate
 bio: I'm curious, argumentative, judgemental and passionate in exploring Data.
 interests:
   - Data Science
